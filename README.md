@@ -1,2 +1,3 @@
-# keyscreenlogger
-Simple key and screen logger
+# Simple key and screen logger
+
+cybersec thingy
